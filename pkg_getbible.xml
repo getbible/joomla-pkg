@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.8" type="package" method="upgrade">
+	<name>PKG_GETBIBLE</name>
+	<packagename>getbible</packagename>
+	<version>2.0.1</version>
+	<creationDate>July 2023</creationDate>
+	<author>Llewellyn van der Merwe</author>
+	<authorEmail>joomla@vdm.io</authorEmail>
+	<authorUrl>https://io.vdm.dev/</authorUrl>
+	<copyright>Copyright (C) 2015 Llewellyn van der Merwe. All rights reserved.</copyright>
+	<copyrightyear>2015</copyrightyear>
+	<license>GNU General Public License version 2; see LICENSE</license>
+	<packager>Vast Development Method</packager>
+	<packagerurl>https://dev.vdm.io/</packagerurl>
+	<description>The Get Bible for Joomla.</description>
+	<updateservers>
+		<server type="extension" name="GetBible Package - Updates" element="pkg_getbible">https://git.vdm.dev/getBible/joomla-component/raw/branch/master/update_server.xml</server>
+	</updateservers>
+	<languages folder="languages">
+		<language tag="en-GB">en-GB/en-GB.pkg_getbible.sys.ini</language>
+		<language tag="en-GB">en-GB/en-GB.pkg_getbible.ini</language>
+	</languages>
+	<files folder="src">
+		<file type="component" id="com_getbible">getBible__joomla-component__master.zip</file>
+		<file type="module" id="mod_dailylight" client="site">getBible__daily-light-module__master.zip</file>
+		<file type="module" id="mod_dailyscripture" client="site">getBible__daily-scripture-module__master.zip</file>
+	</files>
+</extension>
