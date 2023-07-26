@@ -1,4 +1,4 @@
-# GetBible Package (v2.0.2)
+# GetBible Package (v2.0.3)
 
 The Get Bible for Joomla.
 
