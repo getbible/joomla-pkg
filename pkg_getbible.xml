@@ -2,8 +2,8 @@
 <extension version="3.8" type="package" method="upgrade">
 	<name>PKG_GETBIBLE</name>
 	<packagename>getbible</packagename>
-	<version>2.0.5</version>
-	<creationDate>July 2023</creationDate>
+	<version>2.0.6</version>
+	<creationDate>August 2023</creationDate>
 	<author>Llewellyn van der Merwe</author>
 	<authorEmail>joomla@vdm.io</authorEmail>
 	<authorUrl>https://io.vdm.dev/</authorUrl>
