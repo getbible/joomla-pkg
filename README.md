@@ -1,4 +1,4 @@
-# GetBible Package (v2.0.23)
+# GetBible Package (v2.0.24)
 
 The Get Bible for Joomla.
 
@@ -6,7 +6,7 @@ The Get Bible for Joomla.
 
 - Packager: [Vast Development Method](https://dev.vdm.io/)
 - Author: [Llewellyn van der Merwe](https://io.vdm.dev/)
-- Creation Date: September 2023
+- Creation Date: November 2023
 - Max Joomla Version: J3.10
 - Minimum Joomla Version: J3.8
 
