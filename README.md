@@ -1,4 +1,4 @@
-# GetBible Package (v2.0.24)
+# GetBible Package (v2.0.25)
 
 The Get Bible for Joomla.
 
@@ -17,6 +17,8 @@ The Get Bible for Joomla.
 - [getBible/daily-light-module](https://git.vdm.dev/getBible/daily-light-module) [master](https://git.vdm.dev/getBible/daily-light-module/archive/master.zip)
 > master
 - [getBible/daily-scripture-module](https://git.vdm.dev/getBible/daily-scripture-module) [master](https://git.vdm.dev/getBible/daily-scripture-module/archive/master.zip)
+> master
+- [getBible/loader-plugin](https://git.vdm.dev/getBible/loader-plugin) [master](https://git.vdm.dev/getBible/loader-plugin/archive/master.zip)
 > master
 
 ### Copyright (2015)
