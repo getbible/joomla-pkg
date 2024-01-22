@@ -1,19 +1,19 @@
-# GetBible Package (v2.1.0)
+# GetBible Package (v3.0.0)
 
-The Get Bible for Joomla.
+The Get Bible for Joomla 3.
 
 ## Details
 
 - Packager: [Vast Development Method](https://dev.vdm.io/)
 - Author: [Llewellyn van der Merwe](https://io.vdm.dev/)
-- Creation Date: December 2023
+- Creation Date: January 2024
 - Max Joomla Version: J3.10
 - Minimum Joomla Version: J3.8
 
 ## Extensions
 
-- [getBible/joomla-component](https://git.vdm.dev/getBible/joomla-component) [master](https://git.vdm.dev/getBible/joomla-component/archive/master.zip)
-> master
+- [getBible/joomla-component](https://git.vdm.dev/getBible/joomla-component) [3.10](https://git.vdm.dev/getBible/joomla-component/archive/3.10.zip)
+> 3.10
 - [getBible/daily-light-module](https://git.vdm.dev/getBible/daily-light-module) [master](https://git.vdm.dev/getBible/daily-light-module/archive/master.zip)
 > master
 - [getBible/daily-scripture-module](https://git.vdm.dev/getBible/daily-scripture-module) [master](https://git.vdm.dev/getBible/daily-scripture-module/archive/master.zip)
