@@ -6,7 +6,7 @@ The Get Bible for Joomla 3.
 
 - Packager: [Vast Development Method](https://dev.vdm.io/)
 - Author: [Llewellyn van der Merwe](https://io.vdm.dev/)
-- Creation Date: January 2024
+- Creation Date: February 2024
 - Max Joomla Version: J3.10
 - Minimum Joomla Version: J3.8
 
