@@ -1,4 +1,4 @@
-# GetBible Package (v3.0.3)
+# GetBible Package (v3.0.4)
 
 The Get Bible for Joomla 3.
 
