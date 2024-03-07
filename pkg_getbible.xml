@@ -2,7 +2,7 @@
 <extension version="4.3" type="package" method="upgrade">
 	<name>PKG_GETBIBLE</name>
 	<packagename>getbible</packagename>
-	<version>5.0.7</version>
+	<version>4.0.7</version>
 	<creationDate>March 2024</creationDate>
 	<author>Llewellyn van der Merwe</author>
 	<authorEmail>joomla@vdm.io</authorEmail>
@@ -12,16 +12,16 @@
 	<license>GNU General Public License version 2; see LICENSE</license>
 	<packager>Vast Development Method</packager>
 	<packagerurl>https://dev.vdm.io/</packagerurl>
-	<description>The Get Bible for Joomla 4 and 5.</description>
+	<description>The Get Bible for Joomla 4.</description>
 	<updateservers>
-		<server type="extension" name="GetBible Package - Updates" element="pkg_getbible">https://git.vdm.dev/getBible/joomla-component/raw/branch/5.0/update_server.xml</server>
+		<server type="extension" name="GetBible Package - Updates" element="pkg_getbible">https://git.vdm.dev/getBible/joomla-component/raw/branch/4.x/update_server.xml</server>
 	</updateservers>
 	<languages folder="languages">
 		<language tag="en-GB">en-GB/en-GB.pkg_getbible.sys.ini</language>
 		<language tag="en-GB">en-GB/en-GB.pkg_getbible.ini</language>
 	</languages>
 	<files folder="src">
-		<file type="component" id="com_getbible">getBible__joomla-component__5.0.zip</file>
+		<file type="component" id="com_getbible">getBible__joomla-component__4.x.zip</file>
 		<file type="module" id="mod_dailylight" client="site">getBible__daily-light-module__master.zip</file>
 		<file type="module" id="mod_dailyscripture" client="site">getBible__daily-scripture-module__master.zip</file>
 		<file type="plugin" id="getBibleLoader" group="system">getBible__loader-plugin__master.zip</file>
