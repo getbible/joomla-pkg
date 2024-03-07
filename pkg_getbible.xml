@@ -14,14 +14,14 @@
 	<packagerurl>https://dev.vdm.io/</packagerurl>
 	<description>The Get Bible for Joomla 3.</description>
 	<updateservers>
-		<server type="extension" name="GetBible Package - Updates" element="pkg_getbible">https://git.vdm.dev/getBible/joomla-component/raw/branch/3.10/update_server.xml</server>
+		<server type="extension" name="GetBible Package - Updates" element="pkg_getbible">https://git.vdm.dev/getBible/joomla-component/raw/branch/3.x/update_server.xml</server>
 	</updateservers>
 	<languages folder="languages">
 		<language tag="en-GB">en-GB/en-GB.pkg_getbible.sys.ini</language>
 		<language tag="en-GB">en-GB/en-GB.pkg_getbible.ini</language>
 	</languages>
 	<files folder="src">
-		<file type="component" id="com_getbible">getBible__joomla-component__3.10.zip</file>
+		<file type="component" id="com_getbible">getBible__joomla-component__3.x.zip</file>
 		<file type="module" id="mod_dailylight" client="site">getBible__daily-light-module__master.zip</file>
 		<file type="module" id="mod_dailyscripture" client="site">getBible__daily-scripture-module__master.zip</file>
 		<file type="plugin" id="getBibleLoader" group="system">getBible__loader-plugin__master.zip</file>

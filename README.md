@@ -12,8 +12,8 @@ The Get Bible for Joomla 3.
 
 ## Extensions
 
-- [getBible/joomla-component](https://git.vdm.dev/getBible/joomla-component) [3.10](https://git.vdm.dev/getBible/joomla-component/archive/3.10.zip)
-> 3.10
+- [getBible/joomla-component](https://git.vdm.dev/getBible/joomla-component) [3.x](https://git.vdm.dev/getBible/joomla-component/archive/3.x.zip)
+> 3.x
 - [getBible/daily-light-module](https://git.vdm.dev/getBible/daily-light-module) [master](https://git.vdm.dev/getBible/daily-light-module/archive/master.zip)
 > master
 - [getBible/daily-scripture-module](https://git.vdm.dev/getBible/daily-scripture-module) [master](https://git.vdm.dev/getBible/daily-scripture-module/archive/master.zip)
