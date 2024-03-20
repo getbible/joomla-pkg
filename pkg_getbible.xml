@@ -2,7 +2,7 @@
 <extension version="5.0" type="package" method="upgrade">
 	<name>PKG_GETBIBLE</name>
 	<packagename>getbible</packagename>
-	<version>5.0.9</version>
+	<version>5.0.10</version>
 	<creationDate>March 2024</creationDate>
 	<author>Llewellyn van der Merwe</author>
 	<authorEmail>joomla@vdm.io</authorEmail>
