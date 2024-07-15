@@ -1,4 +1,4 @@
-# GetBible Package (v4.0.13)
+# GetBible Package (v4.0.14)
 
 The Get Bible for Joomla 4.
 
@@ -6,7 +6,7 @@ The Get Bible for Joomla 4.
 
 - Packager: [Vast Development Method](https://dev.vdm.io/)
 - Author: [Llewellyn van der Merwe](https://io.vdm.dev/)
-- Creation Date: April 2024
+- Creation Date: July 2024
 - Max Joomla Version: J4.4
 - Minimum Joomla Version: J4.3
 
