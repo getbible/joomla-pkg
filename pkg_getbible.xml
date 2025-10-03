@@ -2,8 +2,8 @@
 <extension version="5.0" type="package" method="upgrade">
 	<name>PKG_GETBIBLE</name>
 	<packagename>getbible</packagename>
-	<version>5.0.15-alpha4</version>
-	<creationDate>July 2024</creationDate>
+	<version>5.0.15-beta1</version>
+	<creationDate>October 2025</creationDate>
 	<author>Llewellyn van der Merwe</author>
 	<authorEmail>joomla@vdm.io</authorEmail>
 	<authorUrl>https://io.vdm.dev/</authorUrl>
@@ -14,8 +14,9 @@
 	<packagerurl>https://dev.vdm.io/</packagerurl>
 	<description>The Get Bible for Joomla 5.</description>
 	<updateservers>
-		<server type="extension" name="GetBible Package - Updates" element="pkg_getbible">https://git.vdm.dev/getBible/joomla-component/raw/branch/5.x/update_server.xml</server>
+		<server type="extension" name="GetBible Package - Updates" element="pkg_getbible">https://raw.githubusercontent.com/getbible/joomla-component/refs/heads/5.x/update_server.xml</server>
 	</updateservers>
+	<changelogurl>https://raw.githubusercontent.com/getbible/joomla-component/refs/heads/5.x/changelog.xml</changelogurl>
 	<languages folder="languages">
 		<language tag="en-GB">en-GB/en-GB.pkg_getbible.sys.ini</language>
 		<language tag="en-GB">en-GB/en-GB.pkg_getbible.ini</language>
