@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="5.0" type="package" method="upgrade">
+<extension version="6.0" type="package" method="upgrade">
 	<name>PKG_GETBIBLE</name>
 	<packagename>getbible</packagename>
-	<version>5.0.15-rc2</version>
+	<version>6.0.15</version>
 	<creationDate>October 2025</creationDate>
 	<author>Llewellyn van der Merwe</author>
 	<authorEmail>joomla@vdm.io</authorEmail>
@@ -12,17 +12,17 @@
 	<license>GNU General Public License version 2; see LICENSE</license>
 	<packager>Vast Development Method</packager>
 	<packagerurl>https://dev.vdm.io/</packagerurl>
-	<description>The Get Bible for Joomla 5.</description>
+	<description>The Get Bible for Joomla 6.</description>
 	<updateservers>
-		<server type="extension" name="GetBible Package - Updates" element="pkg_getbible">https://raw.githubusercontent.com/getbible/joomla-component/refs/heads/5.x/update_server.xml</server>
+		<server type="extension" name="GetBible Package - Updates" element="pkg_getbible">https://raw.githubusercontent.com/getbible/joomla-component/refs/heads/6.x/update_server.xml</server>
 	</updateservers>
-	<changelogurl>https://raw.githubusercontent.com/getbible/joomla-component/refs/heads/5.x/changelog.xml</changelogurl>
+	<changelogurl>https://raw.githubusercontent.com/getbible/joomla-component/refs/heads/6.x/changelog.xml</changelogurl>
 	<languages folder="languages">
 		<language tag="en-GB">en-GB/en-GB.pkg_getbible.sys.ini</language>
 		<language tag="en-GB">en-GB/en-GB.pkg_getbible.ini</language>
 	</languages>
 	<files folder="src">
-		<file type="component" id="com_getbible">getBible__joomla-component__5.x.zip</file>
+		<file type="component" id="com_getbible">getBible__joomla-component__6.x.zip</file>
 		<file type="module" id="mod_dailylight" client="site">getBible__daily-light-module__master.zip</file>
 		<file type="module" id="mod_dailyscripture" client="site">getBible__daily-scripture-module__master.zip</file>
 		<file type="plugin" id="getBibleLoader" group="system">getBible__loader-plugin__master.zip</file>

@@ -1,19 +1,19 @@
-# GetBible Package (v5.0.15-rc2)
+# GetBible Package (v6.0.15)
 
-The Get Bible for Joomla 5.
+The Get Bible for Joomla 6.
 
 ## Details
 
 - Packager: [Vast Development Method](https://dev.vdm.io/)
 - Author: [Llewellyn van der Merwe](https://io.vdm.dev/)
 - Creation Date: October 2025
-- Max Joomla Version: J5.4
-- Minimum Joomla Version: J5.0
+- Max Joomla Version: J6.2
+- Minimum Joomla Version: J6.0
 
 ## Extensions
 
-- [getBible/joomla-component](https://git.vdm.robot/getBible/joomla-component) [5.x](https://git.vdm.robot/getBible/joomla-component/archive/5.x.zip)
-> 5.x
+- [getBible/joomla-component](https://git.vdm.robot/getBible/joomla-component) [6.x](https://git.vdm.robot/getBible/joomla-component/archive/6.x.zip)
+> 6.x
 - [getBible/daily-light-module](https://git.vdm.robot/getBible/daily-light-module) [master](https://git.vdm.robot/getBible/daily-light-module/archive/master.zip)
 > master
 - [getBible/daily-scripture-module](https://git.vdm.robot/getBible/daily-scripture-module) [master](https://git.vdm.robot/getBible/daily-scripture-module/archive/master.zip)
